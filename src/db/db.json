@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "417b78f8-523d-4bf7-abc1-77585dd8ad7a",
+    "name": "Brad Crooks III",
+    "phone": "1-204-412-8563 x2772",
+    "email": "Rickie_Adams@hotmail.com",
+    "job": "Product Directives Facilitator"
+  },
+  {
+    "id": "f20bc004-d21e-4319-8ac9-7d0e0169d36c",
+    "name": "Frank Leffler",
+    "phone": "1-422-960-7246 x97012",
+    "email": "Katelynn.Legros@hotmail.com",
+    "job": "Corporate Security Producer"
+  },
+  {
+    "id": "170da5b4-bea2-4dfe-b6be-85a0e693206e",
+    "name": "Tracey Brekke",
+    "phone": "883.944.1348",
+    "email": "Berniece_Shanahan@yahoo.com",
+    "job": "Global Data Strategist"
+  },
+  {
+    "id": "c9874a7b-530a-42f5-aac3-7f9200e50039",
+    "name": "Jonathon Skiles",
+    "phone": "(632) 857-6176",
+    "email": "Ladarius.Roob9@yahoo.com",
+    "job": "Lead Paradigm Liaison"
+  }
+]
